@@ -4,7 +4,9 @@
 
 Su tarea debe entregarse en el cuaderno de ipython registrado en este repositorio de github. Para descargar esta tarea, su mejor opción es clonar el repositorio de github:
 
+```git
 git clone https://github.com/rabernat/research_computing.git
+```
 
 ## Lectura opcional pero recomendada 
 Lee las secciones 1-5 del [Tutorial de Python] oficial (https://docs.python.org/3/tutorial/index.html). Este excelente y bien escrito tutorial introduce todos los conceptos más importantes del núcleo del lenguaje python y su biblioteca estándar. Incluso si no lo lees, deberías saber dónde encontrarlo; si te quedas atascado, debería ser el primer lugar al que acudir en busca de ayuda. Como segundo apoyo para repasar las instrucciones más importantes lo encontrara en el curso ["Introducción a Python"](https://campus.datacamp.com/courses/introduccion-a-python)
