@@ -1,6 +1,7 @@
 # Proyecto Bimestral
 
-**Vencimiento: Miércoles, 1 de junio**
+- **Vencimiento: Miércoles, 1 de junio**
+- **Calificación: .../10 (Auto califique su trabajo)**
 
 Su tarea debe entregarse en el cuaderno de ipython (problemas.ipynb) registrado en este repositorio de github. Para descargar esta tarea, su mejor opción es clonar el repositorio de github:
 
