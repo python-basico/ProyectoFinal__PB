@@ -2,7 +2,7 @@
 
 **Vencimiento: Miércoles, 1 de junio**
 
-Su tarea debe entregarse en el cuaderno de ipython registrado en este repositorio de github. Para descargar esta tarea, su mejor opción es clonar el repositorio de github:
+Su tarea debe entregarse en el cuaderno de ipython (problemas.ipynb) registrado en este repositorio de github. Para descargar esta tarea, su mejor opción es clonar el repositorio de github:
 
 ```git
 git clone https://github.com/rabernat/research_computing.git
